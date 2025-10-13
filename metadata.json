@@ -1,0 +1,5 @@
+{
+  "name": "Aura Home - Smart Dashboard",
+  "description": "A smart home automation dashboard that allows users to monitor and control IoT devices, create custom automation rules, and visualize device data in real-time.",
+  "requestFramePermissions": []
+}
